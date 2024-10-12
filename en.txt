@@ -7,7 +7,7 @@ This privacy policy applies to the VueViewer app.
 Photo album: When viewing thermal camera images, you can save the camera and recorded video to local storage or export the thermal camera file to local storage.
 
 2.Information Collection and Use
-Device identifiers: The cell phone identifies the Android ID. we will also collect the model number of the thermal imaging camera used by the user, and together with the cell phone information we will count the market distribution.
+When the mobile phone is connected to the thermal camera, the app will only collect the camera model and software version information for the purpose of upgrading the camera and counting camera information. No information related to the mobile phone is collected.
 The Application does not gather information about the location of your mobile device.
 
 3. How we use information
