@@ -18,5 +18,5 @@ Improve products and services: optimize our application experience and functiona
 We do not sell, rent, or disclose your personal information to third parties.
 
 5.Data storage and protection
-Data Storage: We store your data on our servers in Silicon Valley and the period of time for which the data is stored will depend on how long it takes us to provide the Services.
+Data Storage: We store your data on our servers in Virginia(America) and the period of time for which the data is stored will depend on how long it takes us to provide the Services.
 Data Security: We take reasonable technical and administrative measures to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction. However, due to the inherent limitations of the Internet, we cannot guarantee the absolute security of information despite our best efforts to protect it.
